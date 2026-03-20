@@ -1,0 +1,16 @@
+﻿asgiref==3.10.0
+Django==5.2.7
+django-cors-headers==4.9.0
+django-extensions==4.1
+django-multiselectfield==1.0.1
+djangorestframework==3.16.1
+djangorestframework_simplejwt==5.5.1
+pillow==11.3.0
+psycopg==3.2.10
+psycopg-binary==3.2.10
+PyJWT==2.10.1
+python-decouple==3.8
+sqlparse==0.5.3
+tzdata==2025.2
+dj-database-url==3.1.2
+gunicorn==25.1.0
